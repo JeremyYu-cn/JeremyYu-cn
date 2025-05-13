@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=SharingSource&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyYu-cn&size_weight=0.5&count_weight=0.5&langs_count=8)
 
