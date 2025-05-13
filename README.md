@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyYu-cn&size_weight=0.5&count_weight=0.5&langs_count=8)
 
-![Jeremy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeremyYu-cn&theme=xcode)
